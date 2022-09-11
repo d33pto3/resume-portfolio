@@ -6,4 +6,4 @@
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
     
-##### deployed app : https://github.com/d33pto3/resume-portfolio
+##### deployed app : https://d33pto3.github.io.resume-portfolio
