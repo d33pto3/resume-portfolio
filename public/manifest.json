@@ -9,8 +9,8 @@
     }
   ],
 
+  "homepage": "https://github.com/d33pto3/resume-portfolio",
   "dependencies": {
-      
   },
   "scripts": {
     "predeploy": "npm run build"
