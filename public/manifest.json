@@ -1,5 +1,5 @@
 {
-  "short_name": "Portfolio app",
+  "short_name": "Portfolio-app",
   "name": "Portfolio app made with react as part of 'weekend projects' initiative",
   "icons": [
     {
@@ -8,6 +8,13 @@
       "type": "image/x-icon"
     }
   ],
+
+  "dependencies": {
+      
+  },
+  "scripts": {
+    "predeploy": "npm run build"
+  },
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
